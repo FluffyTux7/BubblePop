@@ -1,0 +1,17 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Bubble POP",
+  "orientation": "landscape",
+  "scope": "/",
+  "short_name": "Bubble POP",
+  "start_url": "https://fluffytux7.github.io/bubblepop/",
+  "theme_color": "#000000",
+  "id": "bubblepop.fluffytux7.com.github",
+  "description": "Bubble POP game",
+  "lang": "en",
+  "categories": [
+    "games"
+  ]
+}
